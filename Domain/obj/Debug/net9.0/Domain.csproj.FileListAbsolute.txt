@@ -1,0 +1,11 @@
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/bin/Debug/net9.0/Domain.dll
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/Domain.dll
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/elishasamuelgyamfi/RiderProjects/SchoolManagementSystem/Domain/obj/Debug/net9.0/ref/Domain.dll
