@@ -415,3 +415,87 @@ Domain/bin
 WebApi/obj
 WebApi/bin
 
+.idea/.idea.SchoolManagementSystem/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ / VSCode settings
+.idea/
+.vscode/
+*.iml
+
+# Visual Studio files
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Runtime / debug files
+*.pdb
+*.mdb
+*.exe
+*.dll
+*.cache
+*.json
+*.deps.json
+*.runtimeconfig.json
+*.staticwebassets.json
+*.staticwebassets.build.json
+*.staticwebassets.build.endpoints.json
+*.staticwebassets.endpoints.json
+
+# Test results
+TestResult*/
+*.TestResult.xml
+*.trx
+*.coverage
+*.coveragexml
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+*.DotSettings
+
+# Backup & temp files
+*~
+*.tmp
+*.temp
+*.swp
+*.bak
+*.old
+*.orig
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/

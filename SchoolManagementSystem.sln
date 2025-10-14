@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagementSystem", "SchoolManagementSystem\SchoolManagementSystem.csproj", "{9CDE9B03-7B25-4ED3-9CC4-255C0CB15676}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{36D5712B-3ACD-4868-885F-EFAD022C0542}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{D71CD75E-AC06-4CB4-922C-9F35861A7BC0}"
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9CDE9B03-7B25-4ED3-9CC4-255C0CB15676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CDE9B03-7B25-4ED3-9CC4-255C0CB15676}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CDE9B03-7B25-4ED3-9CC4-255C0CB15676}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CDE9B03-7B25-4ED3-9CC4-255C0CB15676}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DD84CA35-67E8-4024-BD59-43B27AFF7AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DD84CA35-67E8-4024-BD59-43B27AFF7AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD84CA35-67E8-4024-BD59-43B27AFF7AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
