@@ -16,4 +16,11 @@ public abstract class BaseDbContext :
     {
         
     }
+    
+    protected override void OnModelCreating(ModelBuilder builder)
+    {
+        base.OnModelCreating(builder);
+
+        builder.ApplyConfigurationsFromAssembly(GetType().Assembly);
+    }
 }
