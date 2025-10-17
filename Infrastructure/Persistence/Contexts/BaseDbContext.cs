@@ -5,7 +5,7 @@ using Infrastructure.Tenancy;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.Identity.Contexts;
+namespace Infrastructure.Persistence.Contexts;
 
 public abstract class BaseDbContext : 
     MultiTenantIdentityDbContext<ApplicationUser, ApplicationRole, string, IdentityUserClaim<string>, 

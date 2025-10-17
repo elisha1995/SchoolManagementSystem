@@ -3,7 +3,7 @@ using Finbuckle.MultiTenant.Abstractions;
 using Infrastructure.Tenancy;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infrastructure.Identity.Contexts;
+namespace Infrastructure.Persistence.Contexts;
 
 public class ApplicationDbContext(
     IMultiTenantContextAccessor<SchoolTenantInfo> multiTenantContextAccessor, DbContextOptions options)
