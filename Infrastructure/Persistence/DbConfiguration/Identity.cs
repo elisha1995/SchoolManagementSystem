@@ -24,6 +24,15 @@ internal class ApplicationRoleConfig : IEntityTypeConfiguration<ApplicationRole>
             .ToTable("Roles", SchemaNames.Identity)
             .IsMultiTenant()
             .AdjustUniqueIndexes();
+        
+        builder
+            .Property(r => r.Name)
+            .IsRequired()
+            .HasMaxLength(256);
+
+        builder.Property(r => r.NormalizedName)
+            .IsRequired(false)
+            .HasMaxLength(256);   
     }
 }
 
