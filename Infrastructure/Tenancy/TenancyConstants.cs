@@ -11,4 +11,6 @@ public class TenancyConstants
     
     public const string DefaultPassword = "School@root";
     public const string TenantIdName = "tenant";
+    public const string FirstName = "Elisha";
+    public const string LastName = "Gyamfi";
 }
