@@ -1,3 +1,4 @@
+using Infrastructure.Identity;
 using Infrastructure.Persistence;
 using Infrastructure.Tenancy;
 using Microsoft.Extensions.Configuration;
@@ -9,8 +10,9 @@ public static class ServiceCollectionExtensions
 {
     public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
     {
-        return services.
-            AddMultiTenancyServices(configuration)
-            .AddPersistenceServices(configuration);
+        return services
+            .AddMultiTenancyServices(configuration)
+            .AddPersistenceServices(configuration)
+            .AddIdentityServices();
     }
 }
