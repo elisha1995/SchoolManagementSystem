@@ -4,6 +4,7 @@ namespace Infrastructure.Persistence.DbInitializers;
 
 internal interface ITenantDbInitializer
 {
-    Task InitializeDatabaseWithTenantAsync(CancellationToken cancellationToken);
-    Task InitializeApplicationDbForTenantAsync(SchoolTenantInfo tenantInfo, CancellationToken cancellationToken);
+    Task InitializeDatabaseAsync(CancellationToken cancellationToken);
+    // Task InitializeDatabaseWithTenantAsync(CancellationToken cancellationToken);
+    // Task InitializeApplicationDbForTenantAsync(SchoolTenantInfo tenantInfo, CancellationToken cancellationToken);
 }
